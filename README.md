@@ -13,7 +13,7 @@ Engineering student at **CentraleSupélec** (France), exchange semester at **NTU
 | [Open Duck Mini](https://anouarguermazi.framer.website/projects/open-duck-mini) | Open-source bipedal robot (team of 5): 3D printing, wiring, motor friction identification, RL walking in MuJoCo (in progress) | Raspberry Pi, MuJoCo |
 | [Cubli](https://anouarguermazi.framer.website/projects/cubli) | Reaction-wheel self-balancing cube: balances on an edge for over 15 min | Arduino, MATLAB/Simulink, SolidWorks |
 | [Tuned mass damper](https://anouarguermazi.framer.website/projects/tmd-active-control) | Pendulum TMD with electromagnetic damping: measured resonance peak cut from ≈ 75 to 19 mm | Python, experiments |
-| [random-forest-from-scratch](https://github.com/anouar-ux/random-forest-from-scratch) | Random forest in plain NumPy, benchmarked against scikit-learn | NumPy |
+| [random-forest-from-scratch](https://github.com/anouar-ux/random-forest-from-scratch) | Random forest in plain NumPy; learns the basin of attraction of a saturated PD-controlled inverted pendulum (97 % agreement with simulation) | NumPy, Matplotlib |
 | [deep-ml](https://github.com/anouar-ux/deep-ml) | My solutions to Deep-ML problems (linear algebra, ML maths) | Python |
 
 ### Learning in progress
