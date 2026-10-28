@@ -6,15 +6,22 @@ Engineering student at **CentraleSupélec** (France), exchange semester at **NTU
 
 🌐 [Portfolio](https://anouarguermazi.framer.website/) · 💼 [LinkedIn](https://www.linkedin.com/in/anouar-guermazi-647882382) · ✉️ anouar.guermazi@student-cs.fr
 
-### Projects
+### Engineering projects
 
 | Project | What | Stack |
 | --- | --- | --- |
 | [Open Duck Mini](https://anouarguermazi.framer.website/projects/open-duck-mini) | Open-source bipedal robot (team of 5): 3D printing, wiring, motor friction identification, RL walking in MuJoCo (in progress) | Raspberry Pi, MuJoCo |
 | [Cubli](https://anouarguermazi.framer.website/projects/cubli) | Reaction-wheel self-balancing cube: balances on an edge for over 15 min | Arduino, MATLAB/Simulink, SolidWorks |
 | [Tuned mass damper](https://anouarguermazi.framer.website/projects/tmd-active-control) | Pendulum TMD with electromagnetic damping: measured resonance peak cut from ≈ 75 to 19 mm | Python, experiments |
-| [random-forest-from-scratch](https://github.com/anouar-ux/random-forest-from-scratch) | Random forest in plain NumPy; learns the basin of attraction of a saturated PD-controlled inverted pendulum (97 % agreement with simulation) | NumPy, Matplotlib |
-| [deep-ml](https://github.com/anouar-ux/deep-ml) | My solutions to Deep-ML problems (linear algebra, ML maths) | Python |
+
+### Machine learning and RL from scratch
+
+| Repository | Highlight |
+| --- | --- |
+| [q-learning-on-frozenlake-from-scratch](https://github.com/anouar-ux/q-learning-on-frozenlake-from-scratch) | Tabular Q-learning: 73.8 % success on slippery FrozenLake vs 74.4 % for the optimal policy (checked by value iteration) |
+| [random-forest-from-scratch](https://github.com/anouar-ux/random-forest-from-scratch) | Random forest in NumPy that learns the basin of attraction of a saturated PD-controlled inverted pendulum (97 % agreement with simulation) |
+| [numpy-house-price-regression](https://github.com/anouar-ux/numpy-house-price-regression) | End-to-end OLS pipeline in pure NumPy: cleaning, feature engineering, rank-deficient least squares, outlier diagnostics |
+| [deep-ml](https://github.com/anouar-ux/deep-ml) | My solutions to Deep-ML problems (linear algebra, ML maths) |
 
 ### Learning in progress
 Reinforcement learning from Sutton & Barto ([bandits and DP](https://github.com/anouar-ux/sutton-and-barto-from-scratch-1-bandits-and-dynamic-programming)), *Hands-On Machine Learning* ([MNIST pipeline](https://github.com/anouar-ux/mnist-classifier-pipeline-with-scikit-learn)), and a [market-making simulator](https://github.com/anouar-ux/market-making-betting-game-simulator).
